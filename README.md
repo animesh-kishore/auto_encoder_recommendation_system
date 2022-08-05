@@ -1,1 +1,1 @@
-# auto_encoder_recommendation_system
+Stacked auto encoder to recommend movies via ratings.
